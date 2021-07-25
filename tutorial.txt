@@ -1,0 +1,4 @@
+buat database di sqlserver anda, lalu import newsql.sql
+sesuaikan "config/system.config.php" dengan database anda
+sesuaikan "Saldo/src/Tambahan.php" dengan database anda
+edit "Saldo/Core.php" cari dengan keyword "perlu diubah" lalu sesuaikan dengan hotspot masing-masing
